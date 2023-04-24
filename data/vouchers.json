@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe557"
+  },
+  "idvoucher": "3N2Đ2199",
+  "namevc": "3N2Đ | VMB+Buffet sáng+Credit | 2tr199/khách",
+  "valuevc": "10%",
+  "quantity": 30,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 2
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe558"
+  },
+  "idvoucher": "3N2Đ3599",
+  "namevc": "3N2Đ | VMB+Buffet sáng+Credit | 3tr599/khách",
+  "valuevc": "20%",
+  "quantity": 10,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 5
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe559"
+  },
+  "idvoucher": "4N3Đ4999",
+  "namevc": "4N3Đ | VMB+Buffet sáng+Credit | 4tr999/khách",
+  "valuevc": "25%",
+  "quantity": 5,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 4
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe55a"
+  },
+  "idvoucher": "KMDB",
+  "namevc": "Khuyến mãi đặc biệt",
+  "valuevc": "30%",
+  "quantity": 1,
+  "from": "2023-04-10T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 1
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe55b"
+  },
+  "idvoucher": "GIFT500",
+  "namevc": "Tặng voucher mua sắm 500,000 VND",
+  "valuevc": "500000",
+  "quantity": 9,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 6
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe55c"
+  },
+  "idvoucher": "FREEPARK",
+  "namevc": "Tặng vé tham quan Asia Park",
+  "valuevc": "100%",
+  "quantity": 15,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 6
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe55d"
+  },
+  "idvoucher": "FREEDANANG",
+  "namevc": "Tặng vé tham quan Sun World Danang Wonders",
+  "valuevc": "100%",
+  "quantity": 10,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 7
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe55e"
+  },
+  "idvoucher": "ONENIGHT",
+  "namevc": "Đặt phòng ngay, tặng 1 đêm nghỉ miễn phí",
+  "valuevc": "50%",
+  "quantity": 2,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 0
+},{
+  "_id": {
+    "$oid": "643e4c3e760069ae474fe560"
+  },
+  "idvoucher": "SPECIALGIFT",
+  "namevc": "Ưu đãi đặc biệt",
+  "valuevc": "65%",
+  "quantity": 3,
+  "from": "2023-04-20T14:00:00Z",
+  "to": "2023-05-31T12:00:00Z",
+  "hidevc": false,
+  "dasudung": 0
+}]

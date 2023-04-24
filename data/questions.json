@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e83"
+  },
+  "iduser": "643525ac397d496aab0886ad",
+  "question": "Tôi muốn hỏi chính sách phụ thu với trẻ em!",
+  "repquestion": "Chào bạn!\n\nTùy thuộc vào mỗi khách sạn, thường thì trẻ dưới 6 tuổi sẽ không tính phụ thu.\n\nBạn nên kiểm tra kĩ điều này trước khi đặt phòng để tránh những trường hợp không hay nhé!\n\nBạn có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU.com tư vấn kỹ hơn các vấn đề về đặt phòng khách sạn trực tuyến.",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e89"
+  },
+  "iduser": "643962bc7481b88231b816fe",
+  "question": "Anh đặt phòng bên em rồi nhưng khi đến khách sạn không có phòng thì sao?",
+  "repquestion": "thì thôi",
+  "rep": true,
+  "datesend": {
+    "$date": "2023-04-12T12:00:00.000Z"
+  },
+  "daterep": {
+    "$date": "2023-04-17T21:20:37.083Z"
+  },
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e8a"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "Phú Quốc đi thời gian nào là đẹp nhất? Tôi rất thích khách sạn Vinpearl nhưng hơi xa sân bay. Khách sạn có dịch vụ đưa đón khách tại sân bay không? 🥳",
+  "repquestion": "",
+  "rep": false,
+  "datesend": "2023-04-14T08:00:00.000Z",
+  "daterep": null,
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e8b"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "Tôi muốn hỏi chính sách phụ thu với trẻ em!",
+  "repquestion": "Chào bạn!\n\nTùy thuộc vào mỗi khách sạn, thường thì trẻ dưới 6 tuổi sẽ không tính phụ thu.\n\nBạn nên kiểm tra kĩ điều này trước khi đặt phòng để tránh những trường hợp không hay nhé!\n\nBạn có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU.com tư vấn kỹ hơn các vấn đề về đặt phòng khách sạn trực tuyến.",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e80"
+  },
+  "iduser": "643830b6b0b02cd5b1315a96",
+  "question": "Đặt vé máy bay, khách sạn, vé tham quan & giải trí trên trang web traveloka.com có gì khác so với ứng dụng Traveloka trên điện thoại?",
+  "repquestion": "Nếu sử dụng các dịch vụ của Traveloka trên ứng dụng thì tụi mình hay nói với nhau là cả hành trình nằm trong lòng bàn tay bạn nhờ vào tiện ích My Booking (Đặt chỗ của tôi) trong ứng dụng Traveloka. Từ đó, bạn có thể quản lý hành trình một cách dễ dàng.\n\nNgoài ra, trên màn hình chính của ứng dụng còn đưa ra các gợi ý thiết yếu theo từng thời điểm: các khách sạn, chuyến bay nhiều ưu đãi trong tháng, các hoạt động tham quan và giải trí hot nhất, các chương trình khuyến mãi hiện hành hoặc nếu để tìm cảm hứng du lịch thì các bài viết hoặc video của Traveloka trong mục Vi vu khắp chốn hoặc Cung đường cảm hứng sẽ cung cấp những gì bạn cần.\nNếu vẫn chưa cài đặt ứng dụng Traveloka thì bạn hãy tải ngay để qua vòng gửi xe nhé!",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e81"
+  },
+  "iduser": "643830b6b0b02cd5b1315a96",
+  "question": "Anh đặt phòng bên em rồi nhưng khi đến khách sạn không có phòng thì sao?",
+  "repquestion": "nhân viên sẽ hỗ trợ cho bạn",
+  "rep": true,
+  "datesend": {
+    "$date": "2023-04-12T12:00:00.000Z"
+  },
+  "daterep": {
+    "$date": "2023-04-18T06:45:05.593Z"
+  },
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e82"
+  },
+  "iduser": "643525ac397d496aab0886ad",
+  "question": "Phú Quốc đi thời gian nào là đẹp nhất? Tôi rất thích khách sạn Vinpearl nhưng hơi xa sân bay. Khách sạn có dịch vụ đưa đón khách tại sân bay không? 🥳",
+  "repquestion": "",
+  "rep": true,
+  "datesend": {
+    "$date": "2023-04-14T08:00:00.000Z"
+  },
+  "daterep": {
+    "$date": "2023-04-19T01:15:30.696Z"
+  },
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e84"
+  },
+  "iduser": "643525ac397d496aab0886ad",
+  "question": "Đặt vé máy bay, khách sạn, vé tham quan & giải trí trên trang web traveloka.com có gì khác so với ứng dụng Traveloka trên điện thoại?",
+  "repquestion": "Nếu sử dụng các dịch vụ của Traveloka trên ứng dụng thì tụi mình hay nói với nhau là cả hành trình nằm trong lòng bàn tay bạn nhờ vào tiện ích My Booking (Đặt chỗ của tôi) trong ứng dụng Traveloka. Từ đó, bạn có thể quản lý hành trình một cách dễ dàng.\n\nNgoài ra, trên màn hình chính của ứng dụng còn đưa ra các gợi ý thiết yếu theo từng thời điểm: các khách sạn, chuyến bay nhiều ưu đãi trong tháng, các hoạt động tham quan và giải trí hot nhất, các chương trình khuyến mãi hiện hành hoặc nếu để tìm cảm hứng du lịch thì các bài viết hoặc video của Traveloka trong mục Vi vu khắp chốn hoặc Cung đường cảm hứng sẽ cung cấp những gì bạn cần.\nNếu vẫn chưa cài đặt ứng dụng Traveloka thì bạn hãy tải ngay để qua vòng gửi xe nhé!",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e86"
+  },
+  "iduser": "643962bc7481b88231b816fe",
+  "question": "Phú Quốc đi thời gian nào là đẹp nhất? Tôi rất thích khách sạn Vinpearl nhưng hơi xa sân bay. Khách sạn có dịch vụ đưa đón khách tại sân bay không? 🥳",
+  "repquestion": "",
+  "rep": false,
+  "datesend": "2023-04-14T08:00:00.000Z",
+  "daterep": null,
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e8d"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "Anh đặt phòng bên em rồi nhưng khi đến khách sạn không có phòng thì sao?",
+  "repquestion": "",
+  "rep": false,
+  "datesend": "2023-04-12T12:00:00.000Z",
+  "daterep": null,
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e85"
+  },
+  "iduser": "643525ac397d496aab0886ad",
+  "question": "Anh đặt phòng bên em rồi nhưng khi đến khách sạn không có phòng thì sao?",
+  "repquestion": "thì thôi đi về chứ sao",
+  "rep": true,
+  "datesend": {
+    "$date": "2023-04-12T12:00:00.000Z"
+  },
+  "daterep": {
+    "$date": "2023-04-17T21:22:41.637Z"
+  },
+  "hidevc": false
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e7f"
+  },
+  "iduser": "643830b6b0b02cd5b1315a96",
+  "question": "Tôi muốn hỏi chính sách phụ thu với trẻ em!",
+  "repquestion": "Chào bạn!\n\nTùy thuộc vào mỗi khách sạn, thường thì trẻ dưới 6 tuổi sẽ không tính phụ thu.\n\nBạn nên kiểm tra kĩ điều này trước khi đặt phòng để tránh những trường hợp không hay nhé!\n\nBạn có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU.com tư vấn kỹ hơn các vấn đề về đặt phòng khách sạn trực tuyến.",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643981ee8ce4144a5ac39e87"
+  },
+  "iduser": "643962bc7481b88231b816fe",
+  "question": "Tôi muốn hỏi chính sách phụ thu với trẻ em!",
+  "repquestion": "Chào bạn!\n\nTùy thuộc vào mỗi khách sạn, thường thì trẻ dưới 6 tuổi sẽ không tính phụ thu.\n\nBạn nên kiểm tra kĩ điều này trước khi đặt phòng để tránh những trường hợp không hay nhé!\n\nBạn có thể gọi điện thoại trực tiếp đến Hotline 24/7: (08) 3930 8290 để được nhân viên của iVIVU.com tư vấn kỹ hơn các vấn đề về đặt phòng khách sạn trực tuyến.",
+  "rep": true,
+  "datesend": "2023-04-13T16:30:00.000Z",
+  "daterep": "2023-04-14T08:30:00.000Z",
+  "hidevc": true
+},{
+  "_id": {
+    "$oid": "643c2742d46bf0482bd19f8f"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "alo alo",
+  "repquestion": "alo alo",
+  "rep": true,
+  "daterep": {
+    "$date": "2023-04-17T21:22:12.360Z"
+  },
+  "hidevc": false,
+  "datesend": {
+    "$date": "2023-04-16T16:50:10.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643c30335be644251eef4bb8"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "hú zeeeeeeeeee",
+  "repquestion": "hé zu",
+  "rep": true,
+  "daterep": {
+    "$date": "2023-04-17T21:22:22.840Z"
+  },
+  "hidevc": false,
+  "datesend": {
+    "$date": "2023-04-16T17:28:19.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f62dcb7c91beb17583164"
+  },
+  "iduser": "64390426f746a681c6510c53",
+  "question": "hehehe",
+  "repquestion": "hahaha",
+  "rep": true,
+  "daterep": {
+    "$date": "2023-04-19T03:42:11.053Z"
+  },
+  "hidevc": false,
+  "datesend": {
+    "$date": "2023-04-19T03:41:16.979Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fac57f290362dfdc94bc6"
+  },
+  "iduser": "643f4d2792d639a204eedb42",
+  "question": "hello",
+  "repquestion": "After a long and tiring day at work, Jane decided to unwind by taking a relaxing stroll through the park, enjoying the sights and sounds of nature as she breathed in the fresh air and felt the cool breeze on her face, before heading home to prepare a delicious dinner consisting of grilled salmon with a side of roasted vegetables and a glass of red wine to top off the evening.",
+  "rep": true,
+  "daterep": {
+    "$date": "2023-04-19T12:59:52.572Z"
+  },
+  "hidevc": false,
+  "datesend": {
+    "$date": "2023-04-19T08:54:47.385Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64439066b662370ef96bac8a"
+  },
+  "iduser": "643830b6b0b02cd5b1315a96",
+  "question": "tôi muốn hỏi làm sao đi đến ks",
+  "repquestion": "địa chỉ nha bạn",
+  "rep": true,
+  "daterep": {
+    "$date": "2023-04-22T07:45:13.933Z"
+  },
+  "hidevc": false,
+  "datesend": {
+    "$date": "2023-04-22T07:44:38.121Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,404 @@
+[{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaebf"
+  },
+  "number_room": "101",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 22 ngày | Vũ Trụ Không Ngủ | 3N2Đ Vé máy bay + Buffet sáng tiêu chuẩn +  Đưa đón sân bay + Credit  500,000 VND",
+  "img_room": "https://cdn.dulichbariavungtau.com/uploads/all/K9BPgTVyNE4ZtNNi2VUnXjmq3KAXYqeET1LrPfv9.jpg",
+  "name_room": "Phòng tiêu chuẩn 2 giường đơn",
+  "star": 4,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.6,
+  "count_cmt": 76,
+  "characters": [
+    "Châu Âu",
+    "Hiện Đại"
+  ],
+  "bonus_character": "Miễn phí công viên nước, Casino lớn thứ 3 châu Á",
+  "oldprice": 2700000,
+  "newprice": 2570500,
+  "type_room": "Standard Room",
+  "type_room_bonus": "Gồm bửa sáng",
+  "status": "Còn phòng",
+  "voucher": "3N2Đ | VMB+Buffet sáng+Credit | 3tr599/khách",
+  "adult": 2,
+  "child": 1,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Standard%20Room1.jpg",
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Suite%20Room6.jpg"
+  ],
+  "hide": true
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec0"
+  },
+  "number_room": "102",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 18 ngày | Thiên Đường Nhiệt Đới | 4N3Đ Vé máy bay + Buffet sáng tiêu chuẩn + Đưa đón sân bay + Credit 750,000 VND",
+  "img_room": "https://vinpearlresortvietnam.com/wp-content/uploads/villa-2-phong-ngu-vinpearl-phu-quoc-4.jpg",
+  "name_room": "Phòng tiêu chuẩn 1 giường đôi",
+  "star": 5,
+  "feedback_normal": "Xuất sắc",
+  "point": 9.8,
+  "count_cmt": 120,
+  "characters": [
+    "Nhiệt Đới",
+    "Sang Trọng"
+  ],
+  "bonus_character": "Miễn phí khu vườn bươm, Spa cao cấp",
+  "oldprice": 3500000,
+  "newprice": 3325000,
+  "type_room": "Deluxe Room",
+  "type_room_bonus": "Gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "4N3Đ | VMB+Buffet sáng+Credit | 4tr999/khách",
+  "adult": 2,
+  "child": 2,
+  "img_room_list": [
+    "https://example.com/room_types/tropical_paradise_standard_room.jpg",
+    "https://example.com/room_types/tropical_paradise_suite_room.jpg"
+  ],
+  "hide": true
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec1"
+  },
+  "number_room": "103",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 15 ngày | Đảo Ngọc Xanh | 3N2Đ Vé máy bay + Buffet sáng tiêu chuẩn + Đưa đón sân bay + Credit 300,000 VND",
+  "img_room": "https://booking-static.vinpearl.com/room_types/bfb75b47c21d4f5fa09f754417945797_VOPQ%20Standard%20Ocean%20View1%20(1).jpg",
+  "name_room": "Phòng tiêu chuẩn 2 giường đơn",
+  "star": 3,
+  "feedback_normal": "Rất tốt",
+  "point": 8.5,
+  "count_cmt": 55,
+  "characters": [
+    "Biển",
+    "Bình dân"
+  ],
+  "bonus_character": "Miễn phí khu vui chơi trẻ em, Đạp xe miễn phí",
+  "oldprice": 2000000,
+  "newprice": 1900000,
+  "type_room": "Standard Room",
+  "type_room_bonus": "Gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "3N2Đ | VMB+Buffet sáng+Credit | 2tr199/khách",
+  "adult": 2,
+  "child": 1,
+  "img_room_list": [
+    "https://example.com/room_types/green_gem_island_standard_room.jpg",
+    "https://example.com/room_types/green_gem_island_family_room.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec2"
+  },
+  "number_room": "201",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Chỉ còn 3 ngày | Đặt phòng trước, giảm giá 20% cho phòng Deluxe Ocean View",
+  "img_room": "https://shellsresort.com/wp-content/uploads/2020/07/The-Shells.-Premium-Deluxee-OCean-View-6.jpg",
+  "name_room": "Phòng Deluxe Ocean View",
+  "star": 5,
+  "feedback_normal": "Tốt",
+  "point": 8.9,
+  "count_cmt": 45,
+  "characters": [
+    "Biển",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, bể bơi ngoài trời",
+  "oldprice": 5000000,
+  "newprice": 4000000,
+  "type_room": "Deluxe Ocean View",
+  "type_room_bonus": "Gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Đặt trước, giảm giá 20%",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/98a3b7c22b0a4d7a9ba9f2e7c4b4a2a4_VH1PQ_Deluxe%20Ocean%20View5.jpg",
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Ocean%20View1.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec3"
+  },
+  "number_room": "202",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Khuyến mãi đặc biệt | Tặng Spa 60 phút cho mỗi đêm nghỉ tại phòng Deluxe Garden View",
+  "img_room": "https://salindaresort.com/uploads/products/3/deluxe-garden-view_3.jpg",
+  "name_room": "Phòng Deluxe Garden View",
+  "star": 5,
+  "feedback_normal": "Rất tốt",
+  "point": 9.2,
+  "count_cmt": 62,
+  "characters": [
+    "Vườn",
+    "Thiết kế sang trọng"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, phòng tập thể hình",
+  "oldprice": 4000000,
+  "newprice": 3400000,
+  "type_room": "Deluxe Garden View",
+  "type_room_bonus": "Bao gồm Spa 60 phút cho mỗi đêm nghỉ",
+  "status": "Còn phòng",
+  "voucher": "Khuyến mãi đặc biệt",
+  "adult": 2,
+  "child": 1,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Deluxe%20Garden%20View5.jpg",
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Standard%20Room1.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec4"
+  },
+  "number_room": "203",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Khuyến mãi đặc biệt | Ưu đãi 30% cho phòng Deluxe Pool View",
+  "img_room": "https://www.sealinkscity.com/data/upload/product/59eab979bc421.jpg",
+  "name_room": "Phòng Deluxe Pool View",
+  "star": 5,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.8,
+  "count_cmt": 92,
+  "characters": [
+    "Hồ bơi",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, phòng tập thể hình",
+  "oldprice": 6000000,
+  "newprice": 4200000,
+  "type_room": "Deluxe Pool View",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Khuyến mãi đặc biệt",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Pool%20View1.jpg",
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Deluxe%20Garden%20View5.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec5"
+  },
+  "number_room": "301",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 10 phòng | Đặt phòng ngay, tặng 1 đêm nghỉ miễn phí cho phòng Family Suite",
+  "img_room": "https://flcbooking.com/wp-content/uploads/2018/01/Family-Suite-Deluxe.jpg",
+  "name_room": "Phòng Family Suite",
+  "star": 4,
+  "feedback_normal": "Rất tốt",
+  "point": 9.1,
+  "count_cmt": 57,
+  "characters": [
+    "Rộng rãi",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, bể bơi ngoài trời",
+  "oldprice": 4500000,
+  "newprice": 3500000,
+  "type_room": "Family Suite",
+  "type_room_bonus": "Gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Đặt phòng ngay, tặng 1 đêm nghỉ miễn phí",
+  "adult": 2,
+  "child": 2,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Family%20Suite5.jpg",
+    "https://booking-static.vinpearl.com/room_types/98a3b7c22b0a4d7a9ba9f2e7c4b4a2a4_VH1PQ_Deluxe%20Ocean%20View5.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec6"
+  },
+  "number_room": "302",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 5 phòng | Khách sạn bên bờ sông Hàn | Tặng voucher mua sắm 500,000 VND",
+  "img_room": "https://vinpearlresortvietnam.com/wp-content/uploads/phong-junior-suite-vinoasis-phu-quoc-3.jpg",
+  "name_room": "Junior Suite",
+  "star": 5,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.9,
+  "count_cmt": 102,
+  "characters": [
+    "Biển",
+    "Thiết kế sang trọng"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, bể bơi ngoài trời",
+  "oldprice": 7000000,
+  "newprice": 6000000,
+  "type_room": "Deluxe Ocean View",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Tặng voucher mua sắm 500,000 VND",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/98a3b7c22b0a4d7a9ba9f2e7c4b4a2a4_VH1PQ_Deluxe%20Ocean%20View1.jpg",
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Pool%20View1.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec7"
+  },
+  "number_room": "303",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 3 phòng | Ưu đãi đặc biệt cho phòng Executive Suite",
+  "img_room": "https://www.hoteljob.vn/files/Anh-Hoteljob-Ni/Nam-2020/Thang-10/phong-suite-la-gi-01.jpg",
+  "name_room": "Phòng Executive Suite",
+  "star": 4,
+  "feedback_normal": "Rất tốt",
+  "point": 9.3,
+  "count_cmt": 68,
+  "characters": [
+    "Rộng rãi",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, phòng tập thể hình",
+  "oldprice": 5500000,
+  "newprice": 4500000,
+  "type_room": "Executive Suite",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Ưu đãi đặc biệt",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Executive%20Suite1.jpg",
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Pool%20View1.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec8"
+  },
+  "number_room": "401",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 2 phòng | Khách sạn bên bờ sông Hàn | Tặng vé tham quan Sun World Danang Wonders",
+  "img_room": "https://topasecolodge.com/wp-content/uploads/2020/11/TEL_0001-1.jpg",
+  "name_room": "Deluxe Suite Bungalow",
+  "star": 5,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.9,
+  "count_cmt": 102,
+  "characters": [
+    "Biển",
+    "Thiết kế sang trọng"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, bể bơi ngoài trời",
+  "oldprice": 7000000,
+  "newprice": 6000000,
+  "type_room": "Deluxe Ocean View",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Tặng vé tham quan Sun World Danang Wonders",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/98a3b7c22b0a4d7a9ba9f2e7c4b4a2a4_VH1PQ_Deluxe%20Ocean%20View1.jpg",
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Pool%20View1.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaec9"
+  },
+  "number_room": "402",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 3 phòng | Ưu đãi đặc biệt cho phòng Deluxe Garden View",
+  "img_room": "https://datphongresort.com/wp-content/uploads/2018/10/65153_17061411430053673561.jpg",
+  "name_room": "Ocean View Duplex Pool Villa",
+  "star": 4,
+  "feedback_normal": "Rất tốt",
+  "point": 9.2,
+  "count_cmt": 63,
+  "characters": [
+    "Khu vườn",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, phòng tập thể hình",
+  "oldprice": 5000000,
+  "newprice": 4000000,
+  "type_room": "Deluxe Garden View",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Ưu đãi đặc biệt",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Deluxe%20Garden%20View1.jpg",
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Superior%20Room5.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaeca"
+  },
+  "number_room": "403",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 2 phòng | Khách sạn bên bờ sông Hàn | Tặng vé tham quan Asia Park",
+  "img_room": "https://vissaihotel.vn/photo/phong-deluxe-2-giuong-don-deluxe-twin-2.jpg",
+  "name_room": "Deluxe Twin",
+  "star": 4,
+  "feedback_normal": "Rất tốt",
+  "point": 9.3,
+  "count_cmt": 68,
+  "characters": [
+    "Rộng rãi",
+    "Thiết kế hiện đại"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, phòng tập thể hình",
+  "oldprice": 5500000,
+  "newprice": 4500000,
+  "type_room": "Executive Suite",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Tặng vé tham quan Asia Park",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Executive%20Suite1.jpg",
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Superior%20Room5.jpg"
+  ],
+  "hide": false
+},{
+  "_id": {
+    "$oid": "644393563da7c276ff6aaecb"
+  },
+  "number_room": "404",
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 3 phòng | Ưu đãi đặc biệt cho phòng Premier Ocean View",
+  "img_room": "https://statics.vinpearl.com/VPDC1NT_Villa%20Ocean%20View%20(3%20Bedroom)17_1660819104.jpg",
+  "name_room": "Villa 2-Bedroom Pool View",
+  "star": 5,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.8,
+  "count_cmt": 96,
+  "characters": [
+    "Biển",
+    "Thiết kế sang trọng"
+  ],
+  "bonus_character": "Miễn phí đưa đón sân bay, bữa sáng, bể bơi ngoài trời",
+  "oldprice": 8000000,
+  "newprice": 7000000,
+  "type_room": "Premier Ocean View",
+  "type_room_bonus": "Bao gồm bữa sáng",
+  "status": "Còn phòng",
+  "voucher": "Ưu đãi đặc biệt",
+  "adult": 2,
+  "child": 0,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/98a3b7c22b0a4d7a9ba9f2e7c4b4a2a4_VH1PQ_Premier%20Ocean%20View1.jpg",
+    "https://booking-static.vinpearl.com/room_types/2b10a0f1b18f4cac9c1c62d7d3c2a3ea_VH1PQ_Deluxe%20Pool%20View1.jpg"
+  ],
+  "hide": false
+}]

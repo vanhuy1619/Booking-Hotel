@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "643afdc0e06dd30c5b6e4cd7"
+  },
+  "userId": "643830b6b0b02cd5b1315a96",
+  "cardType": 0,
+  "createdDate": {
+    "$date": "2023-04-15T19:40:20.705Z"
+  },
+  "expiredDate": {
+    "$date": "2024-04-15T19:40:47.992Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 60,
+  "cardPricePerYear": 7500000,
+  "type_room": [
+    "Standard Room"
+  ],
+  "cardDescription": "Đây là loại thẻ cơ bản, được dành cho những người dùng mới hoặc không sử dụng dịch vụ thường xuyên. Thẻ normal sẽ không có nhiều ưu đãi hay giảm giá đặc biệt so với các loại thẻ khác.",
+  "cardName": "NORMAL",
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "643e68837d4bf24329b3b067"
+  },
+  "userId": "643a547c04a9fb0b318d8969",
+  "createdDate": {
+    "$date": "2023-04-18T09:52:44.855Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-18T09:53:07.015Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 5000000,
+  "type_room": [
+    "Standard Room"
+  ],
+  "__v": 3,
+  "cardDescription": "Đây là loại thẻ cơ bản, được dành cho những người dùng mới hoặc không sử dụng dịch vụ thường xuyên. Thẻ normal sẽ không có nhiều ưu đãi hay giảm giá đặc biệt so với các loại thẻ khác.",
+  "cardName": "NORMAL",
+  "cardType": 0
+},{
+  "_id": {
+    "$oid": "643e6b199dbfbd228bdd5ad8"
+  },
+  "userId": "643525ac397d496aab0886ad",
+  "cardType": 0,
+  "createdDate": {
+    "$date": "2023-04-18T10:01:10.114Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-18T10:04:09.257Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 2000000,
+  "type_room": [
+    "Standard Room"
+  ],
+  "cardDescription": "Đây là loại thẻ cơ bản, được dành cho những người dùng mới hoặc không sử dụng dịch vụ thường xuyên. Thẻ normal sẽ không có nhiều ưu đãi hay giảm giá đặc biệt so với các loại thẻ khác.",
+  "cardName": "NORMAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e6b1f9dbfbd228bdd5ae5"
+  },
+  "userId": "64399c5b45c359c624f9ba67",
+  "cardType": 0,
+  "createdDate": {
+    "$date": "2023-04-18T10:01:10.114Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-18T10:04:15.485Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 5000000,
+  "type_room": [
+    "Standard Room"
+  ],
+  "cardDescription": "Đây là loại thẻ cơ bản, được dành cho những người dùng mới hoặc không sử dụng dịch vụ thường xuyên. Thẻ normal sẽ không có nhiều ưu đãi hay giảm giá đặc biệt so với các loại thẻ khác.",
+  "cardName": "NORMAL",
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "643e8ba3b7520a162b90320e"
+  },
+  "userId": "64390426f746a681c6510c53",
+  "cardType": 2,
+  "createdDate": {
+    "$date": "2023-04-18T12:20:39.203Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-18T12:22:59.185Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 7500000,
+  "type_room": [
+    "ALL"
+  ],
+  "cardDescription": "Đây là loại thẻ cao cấp nhất, được dành cho những người dùng VIP của khách sạn. Thẻ upstream sẽ có nhiều ưu đãi và tiện ích đặc biệt hơn so với các loại thẻ khác, bao gồm các giảm giá lớn cho các dịch vụ, tiện ích cao cấp trong khách sạn và ưu tiên khi đặt phòng và sử dụng dịch vụ.",
+  "cardName": "VIP",
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "643fb79996ac34b069cfeb65"
+  },
+  "userId": "643f4d2792d639a204eedb42",
+  "cardType": 1,
+  "createdDate": {
+    "$date": "2023-04-19T09:42:36.290Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-19T09:42:49.833Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 5000000,
+  "type_room": [
+    "Standard Room",
+    "Premier Ocean View",
+    "Family Suite",
+    "Deluxe Room",
+    "Deluxe Pool View",
+    "Deluxe Ocean View",
+    "Deluxe Garden View"
+  ],
+  "cardDescription": "Đây là loại thẻ dành cho những người dùng thường xuyên đặt phòng và sử dụng các dịch vụ của khách sạn. Thẻ middle sẽ có nhiều ưu đãi hơn so với thẻ normal, bao gồm các giảm giá đặc biệt cho các dịch vụ và tiện ích trong khách sạn.",
+  "cardName": "MIDDLE",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6440037223fa92ac92ff11bd"
+  },
+  "userId": "644002511d15150449902112",
+  "cardType": 2,
+  "createdDate": {
+    "$date": "2023-04-19T15:04:17.429Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-19T15:06:26.030Z"
+  },
+  "cardBenefits": "Giảm 2% khi đặt phòng Standard Room",
+  "times": 65,
+  "cardPricePerYear": 7500000,
+  "type_room": [
+    "ALL"
+  ],
+  "cardDescription": "Đây là loại thẻ cao cấp nhất, được dành cho những người dùng VIP của khách sạn. Thẻ upstream sẽ có nhiều ưu đãi và tiện ích đặc biệt hơn so với các loại thẻ khác, bao gồm các giảm giá lớn cho các dịch vụ, tiện ích cao cấp trong khách sạn và ưu tiên khi đặt phòng và sử dụng dịch vụ.",
+  "cardName": "VIP",
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "644156d8666724938c4ce576"
+  },
+  "userId": "6441560a666724938c4ce51d",
+  "cardType": 2,
+  "createdDate": {
+    "$date": "2023-04-20T15:10:03.498Z"
+  },
+  "expiredDate": {
+    "$date": "2023-04-20T15:14:32.198Z"
+  },
+  "cardBenefits": "Giảm 7% khi đặt các loại phòng tương ứng bao gồm dịch vụ và các tiện ích trong khách sạn.",
+  "times": 65,
+  "cardPricePerYear": 7500000,
+  "type_room": [
+    "ALL"
+  ],
+  "cardDescription": "Đây là loại thẻ cao cấp nhất, được dành cho những người dùng VIP của khách sạn. Thẻ upstream sẽ có nhiều ưu đãi và tiện ích đặc biệt hơn so với các loại thẻ khác, bao gồm các giảm giá lớn cho các dịch vụ, tiện ích cao cấp trong khách sạn và ưu tiên khi đặt phòng và sử dụng dịch vụ.",
+  "cardName": "VIP",
+  "__v": 0
+}]

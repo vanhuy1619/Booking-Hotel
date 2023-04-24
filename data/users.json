@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "643830b6b0b02cd5b1315a96"
+  },
+  "userName": "Phạm Duy Khoa",
+  "password": "$2b$10$hvyoeaqo6RuO496B3QOdBuKCcHSSx1hnWoYmM0l9B0RNkuJxAsDc2",
+  "phoneNumber": "562852109",
+  "email": "pham.duykhoa1303@gmail.com",
+  "gender": "Male",
+  "address": "20/7 viện lúa ĐBSCL, xã Tân Thạnh, Huyện Thới Lai, Thành Phố Cần Thơ",
+  "cloudinary_id": "bl3bofs83yl4ry9zsyb4",
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681443729/bl3bofs83yl4ry9zsyb4.jpg",
+  "position": 0,
+  "active": true,
+  "id": "643830b6b0b02cd5b1315a96"
+},{
+  "_id": {
+    "$oid": "6438450de7fb696f4893ac23"
+  },
+  "userName": "AmindKhoa",
+  "password": "$2b$10$0gBQ5p34QJZuIljaJms1i.N3VJdq.ntGogaL1T.XdtjkRwRuZ/iba",
+  "phoneNumber": "0562851325",
+  "email": "52100901@student.tdtu.edu.vn",
+  "gender": "Other",
+  "address": "sài gòn",
+  "cloudinary_id": "iss49z4gpfd5ky7w6rna",
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681409485/iss49z4gpfd5ky7w6rna.jpg",
+  "position": 2,
+  "active": true
+},{
+  "_id": {
+    "$oid": "64390426f746a681c6510c53"
+  },
+  "userName": "Đăng Tình",
+  "password": "$2b$10$FQQLgizLcOvOU0ZQ3xYwd..HYusCjLJCiqurS7glVExbryhlPNUA.",
+  "phoneNumber": "184523598",
+  "email": "caodangtinh@gmail.com",
+  "gender": "Male",
+  "address": "Chưa cập nhật",
+  "position": 0,
+  "active": true,
+  "cloudinary_id": "fu7klle5vbhqrwcg95tu",
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681665697/fu7klle5vbhqrwcg95tu.jpg",
+  "id": "64390426f746a681c6510c53"
+},{
+  "_id": {
+    "$oid": "643962bc7481b88231b816fe"
+  },
+  "userName": "Thanh Thảo",
+  "password": "$2b$10$sfLj2r/E80X9.xw/vmUepuht9qiASZx3P4zcWNILfARoOho6lOEK2",
+  "phoneNumber": "0939152748",
+  "email": "thanhthao@gmail.com",
+  "gender": "Male",
+  "address": "Chưa cập nhật",
+  "active": true
+},{
+  "_id": {
+    "$oid": "64399c5b45c359c624f9ba67"
+  },
+  "userName": "Nguyễn Thị Thanh Thảo",
+  "password": "$2b$10$soSGsdvCX3ogxPpX0u.LYuAfosmfAkPLIcqkcATF3eArPRIaJS9..",
+  "phoneNumber": "0939152748",
+  "email": "thaodi@gmail.com",
+  "gender": "Female",
+  "address": "Chưa cập nhật",
+  "position": 0,
+  "cloudinary_id": "ljbp5rgzwzcmkjgr34um",
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681497225/ljbp5rgzwzcmkjgr34um.jpg",
+  "active": false,
+  "id": "64399c5b45c359c624f9ba67"
+},{
+  "_id": {
+    "$oid": "643a356d9147e4cd2155d574"
+  },
+  "userName": "Admin",
+  "password": "$2b$10$j/WFSM7lculDMYaXVca09OCt1svWz00ELQsMhs.nibU13W9yfy2Aa",
+  "phoneNumber": "0123456789",
+  "email": "admin@gmail.com",
+  "gender": "Male",
+  "address": "Chưa cập nhật",
+  "position": 2,
+  "cloudinary_id": "dupnawe1yhqwwrklw433",
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681787057/dupnawe1yhqwwrklw433.jpg"
+},{
+  "_id": {
+    "$oid": "643eb33da63fbdefac0b60b5"
+  },
+  "userName": "Thanh Thảo",
+  "password": "$2b$10$MgI0w1uE66.mo5KZ3kbgHOntWdS0j.qPXHhKtEgJahwHGyHCVYhkK",
+  "phoneNumber": "0939134256",
+  "email": "thaoo@gmail.com",
+  "gender": "Female",
+  "address": "Quận 2",
+  "position": 1,
+  "active": false,
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681830720/nuzy5ve8iwd1e2lbmj6m.jpg",
+  "cloudinary_id": "nuzy5ve8iwd1e2lbmj6m"
+},{
+  "_id": {
+    "$oid": "643eb5e4463f7d2d79c59138"
+  },
+  "userName": "Nguyễn Thảo",
+  "password": "$2b$10$tPqGW4wCIPmQchbh1UAghe1gtiVu0MBiOT5ZunvACkAAg73u053xS",
+  "phoneNumber": "0123985635",
+  "email": "thaodi218@gmail.com",
+  "gender": "Female",
+  "address": "Hồ Chí Minh",
+  "position": 1,
+  "active": false,
+  "image": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681831399/x0ucitaywldfrcv9okxo.jpg",
+  "cloudinary_id": "x0ucitaywldfrcv9okxo"
+},{
+  "_id": {
+    "$oid": "643f4d2792d639a204eedb42"
+  },
+  "userName": "Nguyễn Huy",
+  "password": "$2b$10$PLD8dZ3FqyA1zFJ7coKt1eM33Hpc3fPyerdwf5SM8SoU7ZFyEfl0C",
+  "phoneNumber": "321452140",
+  "email": "vanhuy1619@gmail.com",
+  "cloudinary_id": null,
+  "image": null,
+  "gender": "Male",
+  "address": "Chưa cập nhật",
+  "position": 0,
+  "active": true,
+  "id": "643f4d2792d639a204eedb42"
+},{
+  "_id": {
+    "$oid": "6441560a666724938c4ce51d"
+  },
+  "userName": "Thanh Thảoo",
+  "password": "$2b$10$ifaCg.oX0SZChvCRJ5tGRuWFvFVL9BQ09vowRiklBqAW250vtisr2",
+  "phoneNumber": "0129385866",
+  "email": "nguyenthao@gmail.com",
+  "cloudinary_id": null,
+  "image": null,
+  "gender": "Female",
+  "address": "Chưa cập nhật",
+  "position": 0,
+  "active": false
+}]

@@ -1,0 +1,35 @@
+**user:
+4 trạng thái đặt phòng:
+0: Hủy
+1: Chờ xác nhận
+2: Đã xác nhận
+3: Hủy phòng
+
+- Đặt phòng:
++ Trạng thái mặc định: Chờ duyệt
++ Lưu thời gian lúc xác nhận đặt phòng
++ khi phòng ở trạng thái hoàn thành thì mới cho feedback
++ user có thể xóa feedback
+
+- Trang chi tiết từng phòng:
++ Cần sửa lại gấp
++ Thêm giao diện feedback  và rep feedback từ admin
+
+- Trang home:
++ Có biểu tượng chat để chat với admin. user gửi câu hoi rồi rep tự động "Chờ phản hồi ..." không cần socket
++ Trên thanh header có hình quả chuông để hiện thị thông báo rep câu hỏi từ phía admin
++ Danh sách câu hỏi + phản hồi trong phần user/profile/question (chẵng hạn)
+
+**Admin
+- Duyệt phòng
+- Thống kê doanh thu (ngày, tháng, năm)
+- Thêm xóa sửa dịch vụ, ví dụ: trà, cafe, xe đưa rước,...
+- Rep câu hỏi
+- Xem ngày hôm nay có những khách hàng nào sẽ nhận phòng 
+- Chỉnh sửa phòng khách sạn
+- Lưu ý: chức năng xóa không xóa khỏi database mà ẩn đi. Thêm thuộc tính hide: true(ẩn), mặc định là false(hiện)
+- Thanh toán: tiền lúc khách booking + dịch vụ phát sinh ( xài nước uống trong phòng, đặt gói buffe...)
+
+** Lễ tân
+- Chức năng tương tự admin
+- Không có quyền thêm xóa sửa nhân viên/khách hàng/...., xem thống kê doanh thu, 

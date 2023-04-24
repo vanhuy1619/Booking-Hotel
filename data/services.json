@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "643aed443fafff9d22c1c713"
+  },
+  "stt": 1,
+  "namesv": "Buffet ngoài trời",
+  "pricesv": 500000,
+  "amountsv": 55,
+  "imgsv": "http://vietnamtravelmarthcm.com/wp-content/uploads/2020/09/vinpearl-resort-spa-phu-quoc_vietnamtravelmarthcm_04.jpg",
+  "descriptionsv": "Ăn uống ở Vinpearl Resort Nha Trang với menu buffet đang dạng trong nhà hàng Orchid sẽ không làm bạn thất vọng. Đặt tại tòa nhà Deluxe, nhà hàng Orchid phục vụ hơn 100 món buffet Vinpearl Nha Trang cho bạn thỏa thích lựa chọn món món ngon phù hợp khẩu vị của mình.\n\n",
+  "type": 1,
+  "toggle": true
+},{
+  "_id": {
+    "$oid": "643af41fb7caa50b3f690d38"
+  },
+  "stt": 2,
+  "namesv": "Buffet",
+  "pricesv": 250000,
+  "amountsv": 90,
+  "imgsv": "http://vinpearllandphuquoc.com/wp-content/uploads/2019/10/Salinda-Restaurant-8-Phu-Quoc.jpg",
+  "descriptionsv": "Ở Vinpearl Resort & Spa Nha Trang Bay có nhà hàng phục vụ buffet Oceania với hướng khu vực biệt thự và vịnh biển xinh đẹp được các thực khách yêu thích. Nếu bạn muốn có một chỗ ngồi view đẹp nhất thì hãy liên hệ đặt bàn trước nhé.",
+  "type": 1,
+  "toggle": true
+},{
+  "_id": {
+    "$oid": "643af4898a7128a9c70332b5"
+  },
+  "stt": 3,
+  "namesv": "Trà O-long",
+  "pricesv": 55000,
+  "amountsv": 242,
+  "imgsv": "https://phuclong.com.vn/uploads/dish/16fcacd357eb7c-tren500gphclong.png",
+  "descriptionsv": null,
+  "type": 2,
+  "toggle": true
+},{
+  "_id": {
+    "$oid": "643edfdb85e2506d1b6ffdd3"
+  },
+  "stt": 4,
+  "namesv": "Bể bơi vô cực",
+  "pricesv": 150000,
+  "amountsv": 1,
+  "imgsv": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681842139/fljkj9csu0enmomovf90.jpg",
+  "descriptionsv": "Hồ bơi vô cực hay bể bơi vô cực tiếng anh nó là infinity pool. Đây là dạng bể bơi được xây dựng với thiết kế tạo cảm giác hồ nước kéo dài tới vô cực. Dưới hồ bơi bạn như đang bơi ở nơi không có điểm kết thúc. Với thiết kế tạo hiệu ứng không thấy thành bể cho ta cảm giác như nước trải dài tới chân trời. Nhờ đó, người bơi khó có thể rời mắt khỏi làn nước trong xanh.",
+  "type": 1,
+  "toggle": true,
+  "createdAt": "1:22 ngày 19/3/2023",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ee111a39d608c421f2c1d"
+  },
+  "stt": 5,
+  "namesv": "Coffee",
+  "pricesv": 45000,
+  "amountsv": 1,
+  "imgsv": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681842449/yf2u28zsdq4cafqitjzp.jpg",
+  "descriptionsv": "Nguồn gốc của việc này bắt nguồn từ việc loại cafe Espresso có vị cafe nguyên bản khá đắng và làm cho người uống dễ say “lâng lâng”. Nên khi đưa vào quân đội, người ta đã cho thêm nước sôi để làm giảm vị đắng của cafe. Từ đó chúng ta có một loại cafe mới là Espresso.",
+  "type": 2,
+  "toggle": true,
+  "createdAt": "1:27 ngày 19/3/2023",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ee8222ac7cd00c19b5ebe"
+  },
+  "stt": 6,
+  "namesv": "Rock Island Club ",
+  "pricesv": 350000,
+  "amountsv": 1,
+  "imgsv": "https://res.cloudinary.com/dnqk5fjla/image/upload/v1681844258/vez0b18pfb1bcmjaovmo.jpg",
+  "descriptionsv": "Rock Island Club là quán bar khá độc đáo với tầm nhìn 360 độ nhìn ra đại dương xung quanh. Đến đây bạn sẽ tận mắt thấy bốn bề sóng vỗ cùng khung cảnh hoàng hôn tuyệt đẹp, đảm bảo sẽ là trải nghiệm không thể quên khi du lịch Phú Quốc. ",
+  "type": 1,
+  "toggle": true,
+  "__v": 0
+}]

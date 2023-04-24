@@ -1,0 +1,43 @@
+ai dùng mongodb cluster trực tiếp trên https://www.mongodb.com/ thì connection string trong file .env nha, 
+còn không thì dùng localhost cũng được
+
+
+database Room có dạng:
+{
+  "_id": {
+    "$oid": "642c17c128dbdf4a3d406753"
+  },
+  "direction": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.1495036174256!2d103.85337381471439!3d10.329918192625412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31081fd375b3e319%3A0x8d5ea1381c41a15a!2zVmluT2FzaXMgUGjDuiBRdeG7kWM!5e0!3m2!1sen!2s!4v1668245242303!5m2!1sen!2s",
+  "intro": "Còn 22 ngày | Vũ Trụ Không Ngủ | 3N2Đ Vé máy bay + Buffet sáng tiêu chuẩn +  Đưa đón sân bay + Credit  500,000 VND",
+  "img_room": "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Standard%20Room1.jpg",
+  "name_room": "Phòng tiêu chuẩn 2 giường đơn",
+  "star": 4,
+  "feedback_normal": "Tuyệt vời",
+  "point": 9.6,
+  "count_cmt": 76,
+  "characters": [
+    "Châu Âu",
+    "Hiện Đại"
+  ],
+  "bonus_character": "Miễn phí công viên nước, Casino lớn thứ 3 châu Á",
+  "oldprice":2700000,
+  "newprice": 2570500,
+  "type_room": "Standard Room",
+  "type_room_bonus": "Gồm bửa sáng",
+  "status": "Còn phòng",
+  "voucher": "3N2Đ | VMB+Buffet sáng+Credit | 3tr599/khách",
+  "adult": 2,
+  "child": 1,
+  "img_room_list": [
+    "https://booking-static.vinpearl.com/room_types/be5c1e189982470b8968ef37841168ee_VH1PQ_Standard%20Room1.jpg",
+    "https://booking-static.vinpearl.com/room_types/4dfb2291cacf48ac955dce71a47bee5c_VH1PQ_Suite%20Room6.jpg"
+  ],
+  hide:false
+}
+
+
+//TÀI KHOẢN ADMIN
+admin@gmail.com
+123456
+
+**KHÔNG SỬA LAYOUT ADMIN NỮA NHEN, mọi người làm trang code nào thì tùy chỉnh trang đó thui
